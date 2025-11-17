@@ -1,0 +1,31 @@
+-- Sorted by time changed --
+*Made fancier HOME Menu
+*Added Minecraft Launcher with various eaglercraft versions.
+*Added various ROMs
+*Added Various Pokemon games including ROM Hacks
+*Replaced "Oreo" with "frogie's arcade"
+*Changed Home Menu Background (Minecraft Launcher is not changed)
+*Made the fade in animation faster
+*Added "Super Mario 64"
+*UI Rework (home menu)
+*UI Rework (minecraft launcher)
+*Added music to the menu (home menu only)
+*An old version of the site is hosted at cinnaweb.web.app, with extra features. (it will be updated soon)
+*Improved UI
+*Added Mario & Luigi - Superstar Saga
+*Added Earthbound
+*Added Sandboxels
+*Added Chaotix
+*Added PK Radical Red
+*Added Mario Paint
+*Redone HOME Menu
+*Added Shadow Proxy
+*Added Arena5
+**Reskinned the Site
+©ffmpegf
+
+Cinnaweb v3.32.6 (OFFLINE VERSION (TICKETED))
+(to host on a web server, just drag & drop the website's files to your web server's site directory)
+
+**an old version of this site is hosted at cinnaweb.web.app ((This will soon be changed.))
+**this is until I update the site when I get a chance
